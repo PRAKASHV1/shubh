@@ -118,9 +118,6 @@ int main()
     ManualTransmission mt;
     AutoTransmission aut;
     int EngineStatus_input=0;
-    unsigned char TransmissionMode;
-    int choice=0;
-    int gear_mode=0;
     int speed=0;
     int inc_speed=0;
     int dec_speed=0;
